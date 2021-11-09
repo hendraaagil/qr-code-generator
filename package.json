@@ -1,0 +1,14 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "Simple qr code generator using Node.js",
+  "main": "index.js",
+  "author": "@hendraaagil",
+  "license": "MIT",
+  "scripts": {
+    "generate": "node index"
+  },
+  "dependencies": {
+    "qrcode": "^1.4.4"
+  }
+}
